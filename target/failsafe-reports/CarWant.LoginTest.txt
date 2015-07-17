@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: CarWant.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 59.306 sec <<< FAILURE! - in CarWant.LoginTest
+testIncorrectEmail(CarWant.LoginTest)  Time elapsed: 12.914 sec  <<< ERROR!
+net.serenitybdd.core.exceptions.UnrecognisedException: junit.framework.ComparisonFailure: expected:<[Email is not a valid email address].> but was:<[Incorrect username or password].>
+	at junit.framework.Assert.assertEquals(Assert.java:100)
+	at junit.framework.Assert.assertEquals(Assert.java:107)
+	at junit.framework.TestCase.assertEquals(TestCase.java:269)
+	at CarWant.steps.LoginSteps.shouldSeeTheWarningIncorrectEmailMessage(LoginSteps.java:54)
+	at CarWant.LoginTest.testIncorrectEmail(LoginTest.java:79)
+

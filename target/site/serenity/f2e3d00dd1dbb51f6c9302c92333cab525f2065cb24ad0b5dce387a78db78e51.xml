@@ -1,0 +1,18 @@
+<acceptance-test-run title="Test invalid email" name="testInvalidEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="12261" timestamp="2015-07-07T15:25:57.763+03:00">
+  <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
+  <tags>
+    <tag name="Login test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="10231">
+    <description>On the login page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1114">
+    <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;yevgeniy.semashkogmail.com, Vishnya11&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="261">
+    <description>Sign in</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="651">
+    <description>Should see the warning invalid email message: &lt;span class=&apos;step-parameter&apos;&gt;Email is not a valid email address.&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

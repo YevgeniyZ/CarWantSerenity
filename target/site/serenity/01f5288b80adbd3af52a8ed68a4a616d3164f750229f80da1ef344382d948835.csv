@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login test","Test blank email","SUCCESS","2015-07-07T15:25:26.302+03:00","0.0","11.09"
+"Login test","Test invalid email","SUCCESS","2015-07-07T15:25:57.763+03:00","0.0","12.26"
+"Login test","Test valid login","SUCCESS","2015-07-07T15:25:38.436+03:00","0.0","18.88"
