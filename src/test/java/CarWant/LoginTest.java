@@ -6,6 +6,7 @@ import CarWant.steps.LoginSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.ManagedPages;
+import net.thucydides.core.annotations.Pending;
 import net.thucydides.core.annotations.Steps;
 import net.thucydides.core.pages.Pages;
 import org.junit.Test;
@@ -80,12 +81,13 @@ public class LoginTest {
     }
 
     @Test
+    @Pending
     public void testGoToTheForgotPassword(){
         //Given
         user.onTheLoginPage();
         //When
-        user.clickOnResetPasswordLink();
+        //user.clickOnResetPasswordLink();
         //Then
-        user.shouldGoToTheForgotPasswordPage("Incorrect username or password.");
+        //user.shouldGoToTheForgotPasswordPage("Incorrect username or password.");
     }
 }
