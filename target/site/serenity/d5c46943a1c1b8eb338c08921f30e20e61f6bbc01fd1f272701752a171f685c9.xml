@@ -1,24 +1,18 @@
-<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="3" failures="1" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="14295" timestamp="2015-07-07T15:30:53.610+03:00">
+<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="13313" timestamp="2015-07-21T18:25:33.208+03:00">
   <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
   <tags>
     <tag name="Login test" type="story"/>
   </tags>
-  <test-step result="SUCCESS" duration="12190">
+  <test-step result="SUCCESS" duration="10941">
     <description>On the login page</description>
   </test-step>
-  <test-step result="SUCCESS" duration="881">
+  <test-step result="SUCCESS" duration="1417">
     <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;yevgeniy111.semashko@gmail.com, Vishnya11&lt;/span&gt;</description>
   </test-step>
-  <test-step result="SUCCESS" duration="216">
+  <test-step result="SUCCESS" duration="253">
     <description>Sign in</description>
   </test-step>
-  <test-step result="FAILURE" duration="898">
-    <screenshots>
-      <screenshot image="90cf5e58d5f8de5891f5819c4670d2af_NONE.png"/>
-    </screenshots>
-    <description>Should see the warning incorrect email message: &lt;span class=&apos;step-parameter&apos;&gt;Incorrect username or password&lt;/span&gt;</description>
-    <error>expected:&lt;...username or password[]&gt; but was:&lt;...username or password[.]&gt;</error>
-    <exception>junit.framework.ComparisonFailure:expected:&lt;...username or password[]&gt; but was:&lt;...username or password[.]&gt;&#xd;
-[junit.framework.Assert.assertEquals(Assert.java:100), junit.framework.Assert.assertEquals(Assert.java:107), junit.framework.TestCase.assertEquals(TestCase.java:269), CarWant.steps.LoginSteps.shouldSeeTheWarningIncorrectEmailMessage(LoginSteps.java:54), CarWant.LoginTest.testIncorrectEmail(LoginTest.java:79)]</exception>
+  <test-step result="SUCCESS" duration="697">
+    <description>Should see the warning incorrect email message: &lt;span class=&apos;step-parameter&apos;&gt;Incorrect username or password.&lt;/span&gt;</description>
   </test-step>
 </acceptance-test-run>

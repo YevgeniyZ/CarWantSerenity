@@ -1,4 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2015-07-07T15:26:25.420+03:00","0.0","0.0"
-"Search by keyword story","Searching by keyword apple should display the corresponding article","PENDING","2015-07-07T15:26:25.421+03:00","0.0","0.0"
-"Search by keyword story","Searching by keyword banana should display the corresponding article","PENDING","2015-07-07T15:26:25.416+03:00","0.0","0.0"
+"Search by keyword story","Searching by ambiguious keyword should display the disambiguation page","PENDING","2015-07-17T15:36:40.884+03:00","0.0","0.0"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","PENDING","2015-07-17T15:36:40.885+03:00","0.0","0.0"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","PENDING","2015-07-17T15:36:40.883+03:00","0.0","0.0"

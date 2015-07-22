@@ -33,11 +33,11 @@
     <script class="code" type="text/javascript">$(document).ready(function () {
         var plot1 = $.jqplot('coverage_pie_chart', [
             [
-                ['Passing', 0.428571],
-                ['Pending', 0.428571],
+                ['Passing', 0.5],
+                ['Pending', 0.5],
                 ['Ignored', 0],
                 ['Failing', 0],
-                ['Errors',  0.142857]
+                ['Errors',  0]
             ]
         ], {
             gridPadding: {top: 0, bottom: 38, left: 0, right: 0},
@@ -65,10 +65,10 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '42.9% requirements tested successfully' },
-                {label: '42.9% requirements untested'},
+                {label: '50% requirements tested successfully' },
+                {label: '50% requirements untested'},
                 {label: '0%} requirements failing'},
-                {label: '14.3%} requirements with errors'}
+                {label: '0%} requirements with errors'}
             ]
         });
         // Results table
@@ -147,7 +147,7 @@
             <a href="#"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-07-2015 15:26</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 17-07-2015 15:36</span>
     <br style="clear:left"/>
 </div>
 
@@ -178,10 +178,10 @@
                 <body>
                     <tr>
                         <td class="summary-leading-column">Acceptance Criteria (tests)</td>
-                        <td>7</td>
-                        <td>3</td>
+                        <td>8</td>
+                        <td>4</td>
                         <td>0</td>
-                        <td>3</td>
+                        <td>4</td>
                         <td>0</td>
                         <td></td>
                     </tr>
@@ -209,10 +209,10 @@
         <body>
         <tr>
             <td class="summary-leading-column">Automated</td>
-            <td>7</td>
-            <td>3 (43%)</td>
-            <td>1 (14%)</td>
-            <td>3 (43%)</td>
+            <td>8</td>
+            <td>4 (50%)</td>
+            <td>0 (0%)</td>
+            <td>4 (50%)</td>
             <td>0 (0%)</td>
         </tr>
         <tr>
@@ -225,10 +225,10 @@
         </tr>
         <tr>
             <td class="summary-leading-column">Total</td>
-            <td>7</td>
-            <td>3 (43%)</td>
-            <td>1 (0%)</td>
-            <td>3 (43%)</td>
+            <td>8</td>
+            <td>4 (50%)</td>
+            <td>0 (0%)</td>
+            <td>4 (50%)</td>
             <td>0 (0%)</td>
         </tr>
         </body>
@@ -242,7 +242,7 @@
 
     <div id="test-tabs">
         <ul>
-            <li><a href="#test-tabs-1">Acceptance Tests (7)</a></li>
+            <li><a href="#test-tabs-1">Acceptance Tests (8)</a></li>
         </ul>
         <div id="test_list_tests" class="table">
             <div class="test-results">
@@ -327,15 +327,33 @@
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">11.09</td>
+                            <td class="lightgreentext">14.41</td>
                         </tr>
 
 
-                        <tr class="test-ERROR">
-                            <td><img src="images/cross.png" title="ERROR"
-                                     class="summary-icon"/><span style="display:none">ERROR</span></td>
-                            <td class="ERROR-text"><a
-                                    href="d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" title="expected:([Email is not a valid email address].) but was:([Incorrect username or password].)">Test incorrect email </a>
+                        <tr class="test-PENDING">
+                            <td><img src="images/pending.png" title="PENDING"
+                                     class="summary-icon"/><span style="display:none">PENDING</span></td>
+                            <td class="PENDING-text"><a
+                                    href="bb796eb454f1ea5bea611df2168560d461eec5a07e5dc195cefdb87085138990.html" title="">Test go to the forgot password </a>
+                            </td>
+
+                            <td class="lightgreentext">0</td>
+                            <td class="bluetext">
+                                <img src="images/traffic-in-progress.gif"
+                                     title="Over the last 0 tests: 0 passed, 0 failed, 0 pending"
+                                     class="summary-icon"/>
+                                <span style="display:none">0</span>
+                            </td>
+                            <td class="lightgreentext">0</td>
+                        </tr>
+
+
+                        <tr class="test-SUCCESS">
+                            <td><img src="images/success.png" title="SUCCESS"
+                                     class="summary-icon"/><span style="display:none">SUCCESS</span></td>
+                            <td class="SUCCESS-text"><a
+                                    href="d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" title="">Test incorrect email </a>
                             </td>
 
                             <td class="lightgreentext">4</td>
@@ -345,7 +363,7 @@
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">12.87</td>
+                            <td class="lightgreentext">14.48</td>
                         </tr>
 
 
@@ -363,7 +381,7 @@
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">12.26</td>
+                            <td class="lightgreentext">12.05</td>
                         </tr>
 
 
@@ -381,7 +399,7 @@
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">18.88</td>
+                            <td class="lightgreentext">12.37</td>
                         </tr>
                     </tbody>
                 </table>

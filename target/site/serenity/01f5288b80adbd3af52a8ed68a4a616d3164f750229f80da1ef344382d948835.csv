@@ -1,4 +1,5 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Login test","Test blank email","SUCCESS","2015-07-07T15:25:26.302+03:00","0.0","11.09"
-"Login test","Test invalid email","SUCCESS","2015-07-07T15:25:57.763+03:00","0.0","12.26"
-"Login test","Test valid login","SUCCESS","2015-07-07T15:25:38.436+03:00","0.0","18.88"
+"Login test","Test blank email","SUCCESS","2015-07-17T15:35:37.442+03:00","0.0","14.41"
+"Login test","Test incorrect email","SUCCESS","2015-07-17T15:36:18.306+03:00","0.0","14.48"
+"Login test","Test invalid email","SUCCESS","2015-07-17T15:36:05.740+03:00","0.0","12.05"
+"Login test","Test valid login","SUCCESS","2015-07-17T15:35:52.726+03:00","0.0","12.37"

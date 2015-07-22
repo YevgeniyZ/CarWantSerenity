@@ -36,15 +36,15 @@
     <script class="code" type="text/javascript">$(document).ready(function () {
         var test_results_plot = $.jqplot('test_results_pie_chart', [
             [
-                ['Passing', 0.75],
+                ['Passing', 0.8],
                 
-                ['Pending', 0],
+                ['Pending', 0.2],
                 
                 ['Ignored', 0],
                 
                 ['Failing', 0],
                 
-                ['Errors',  0.25]
+                ['Errors',  0]
             ]
         ], {
 
@@ -73,25 +73,25 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '3 / 4 tests passed' },
-                {label: '0 / 4 tests pending'},
-                {label: '0 / 4 tests not executed'},
-                {label: '0 / 4 tests failed'},
-                {label: '1 / 4 errors'}
+                {label: '4 / 5 tests passed' },
+                {label: '1 / 5 tests pending'},
+                {label: '0 / 5 tests not executed'},
+                {label: '0 / 5 tests failed'},
+                {label: '0 / 5 errors'}
             ]
         });
 
         var weighted_test_results_plot = $.jqplot('weighted_test_results_pie_chart', [
             [
-                ['Passing', 0.75],
+                ['Passing', 0.8],
                 
-                ['Pending', 0],
+                ['Pending', 0.2],
                 
                 ['Ignored', 0],
                 
                 ['Failing', 0],
                 
-                ['Errors', 0.25]
+                ['Errors', 0]
             ]
         ], {
 
@@ -121,11 +121,11 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '3 / 4 tests passed (0.75% of all test steps)' },
-                {label: '0 / 4 tests pending'},
-                {label: '0 / 4 tests not executed'},
-                {label: '0 / 4 tests failed (0% of all test steps)'},
-                {label: '1 / 4 errors (0.25% of all test steps)'}
+                {label: '4 / 5 tests passed (0.8% of all test steps)' },
+                {label: '1 / 5 tests pending'},
+                {label: '0 / 5 tests not executed'},
+                {label: '0 / 5 tests failed (0% of all test steps)'},
+                {label: '0 / 5 errors (0% of all test steps)'}
             ]
         });
 
@@ -187,7 +187,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-07-2015 15:26</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 17-07-2015 15:36</span>
     <br style="clear:left"/>
 </div>
 <div class="clr"></div>
@@ -200,27 +200,27 @@
     <tr>
         <td width="375px" valign="top">
             <div class="test-count-summary">
-                <span class="test-count-title">4
+                <span class="test-count-title">5
                     test scenarios </span>
                 <div>
 
                 <span class="test-count">
-                    3
+                    4
                         <a href="2c7c6b9a53e6dfbd128a3676b3c239bff76e24027d6b0877f99e18af0e69821a.html">passed</a>
                     ,
                 </span>
                 <span class="test-count">
-                    0
-pending,
+                    1
+                        <a href="b1faec604f7d66d00af99bba4787a5ff21dbf397b2930fb4e56857066a3d772b.html">pending</a>
+                    ,
                 </span>
                 <span class="test-count">
                     0
 failed,
                 </span>
                 <span class="test-count">
-                    1
-                        <a href="db8b536f54e2a6b4088aa8216d772dc6a49146fe0d03fd9a2531b09136f70311.html">with errors</a>
-                    ,
+                    0
+errors,
                 </span>
                 <span class="test-count">
                     0
@@ -275,10 +275,10 @@ skipped
         <body>
         <tr>
             <td class="summary-leading-column">Automated</td>
-            <td>4</td>
-            <td>3 (75%)</td>
-            <td>1 (25%)</td>
+            <td>5</td>
+            <td>4 (80%)</td>
             <td>0 (0%)</td>
+            <td>1 (20%)</td>
             <td>0 (0%)</td>
         </tr>
         <tr>
@@ -291,10 +291,10 @@ skipped
         </tr>
         <tr>
             <td class="summary-leading-column">Total</td>
-            <td>4</td>
-            <td>3 (75%)</td>
-            <td>1 (0%)</td>
+            <td>5</td>
+            <td>4 (80%)</td>
             <td>0 (0%)</td>
+            <td>1 (20%)</td>
             <td>0 (0%)</td>
         </tr>
         </body>
@@ -350,10 +350,10 @@ skipped
         <body>
         <tr>
             <td class="summary-leading-column">Automated</td>
-            <td>4</td>
-            <td>3 (75%)</td>
-            <td>1 (25%)</td>
+            <td>5</td>
+            <td>4 (80%)</td>
             <td>0 (0%)</td>
+            <td>1 (20%)</td>
             <td>0 (0%)</td>
         </tr>
         <tr>
@@ -366,10 +366,10 @@ skipped
         </tr>
         <tr>
             <td class="summary-leading-column">Total</td>
-            <td>4</td>
-            <td>3 (75%)</td>
-            <td>1 (0%)</td>
+            <td>5</td>
+            <td>4 (80%)</td>
             <td>0 (0%)</td>
+            <td>1 (20%)</td>
             <td>0 (0%)</td>
         </tr>
         </body>
@@ -437,19 +437,45 @@ skipped
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">11.09</td>
+                            <td class="lightgreentext">14.41</td>
                         </tr>
 
 
 
 
-                        <tr class="test-ERROR">
-                            <td><img src="images/cross.png" title="ERROR"
+                        <tr class="test-PENDING">
+                            <td><img src="images/pending.png" title="PENDING"
                                      class="summary-icon"/>
                                 
-                                <span style="display:none">ERROR</span></td>
-                            <td class="ERROR-text">
-                                <a href="d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" class="ellipsis" title="expected:([Email is not a valid email address].) but was:([Incorrect username or password].)">
+                                <span style="display:none">PENDING</span></td>
+                            <td class="PENDING-text">
+                                <a href="bb796eb454f1ea5bea611df2168560d461eec5a07e5dc195cefdb87085138990.html" class="ellipsis" title="">
+                                    Test go to the forgot password 
+                                </a>
+                            </td>
+
+                            <td class="lightgreentext">0</td>
+
+
+                            <td class="bluetext">
+                                <img src="images/traffic-in-progress.gif"
+                                     title="Over the last 0 tests: 0 passed, 0 failed, 0 pending"
+                                     class="summary-icon"/>
+                                <span style="display:none">0</span>
+                            </td>
+                            <td class="lightgreentext">0</td>
+                        </tr>
+
+
+
+
+                        <tr class="test-SUCCESS">
+                            <td><img src="images/success.png" title="SUCCESS"
+                                     class="summary-icon"/>
+                                
+                                <span style="display:none">SUCCESS</span></td>
+                            <td class="SUCCESS-text">
+                                <a href="d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" class="ellipsis" title="">
                                     Test incorrect email 
                                 </a>
                             </td>
@@ -463,7 +489,7 @@ skipped
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">12.87</td>
+                            <td class="lightgreentext">14.48</td>
                         </tr>
 
 
@@ -489,7 +515,7 @@ skipped
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">12.26</td>
+                            <td class="lightgreentext">12.05</td>
                         </tr>
 
 
@@ -515,7 +541,7 @@ skipped
                                      class="summary-icon"/>
                                 <span style="display:none">0</span>
                             </td>
-                            <td class="lightgreentext">18.88</td>
+                            <td class="lightgreentext">12.37</td>
                         </tr>
                         </tbody>
                     </table>
