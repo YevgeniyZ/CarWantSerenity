@@ -1,11 +1,10 @@
 package CarWant.pages;
 
 import net.serenitybdd.core.pages.PageObject;
+import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.junit.Assert;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
 /**
  * Created by semashko on 7/7/2015.
@@ -14,14 +13,22 @@ import org.openqa.selenium.support.PageFactory;
 @DefaultUrl("http://carwant.apache.devplatform1.com")
 public class HomePage extends PageObject {
 
-    WebDriver driver;
 
-    @FindBy(id="w2")
-    public WebElement nav_bar;
+    @FindBy(linkText = "Get Started")
+    public
+    WebElementFacade get_started_link;
 
-    public HomePage(WebDriver driver){
-        this.driver = driver;
-        //This initElements method will create  all WebElements
-        PageFactory.initElements(driver, this);
+    @FindBy(linkText = "Logout")
+    public
+    WebElementFacade logout_link;
+
+
+    public void assertIsOpened() {
+        Assert.assertEquals("Get Started", get_started_link.getText());
+    }
+
+    public void assertLogoutIsDisplayed() {
+        System.out.println(logout_link.getText());
+        Assert.assertEquals("Logout",logout_link.getText());
     }
 }
