@@ -14,7 +14,7 @@ public class DashboardBuyingPage extends PageObject{
     public
     WebElementFacade request;
 
-    @FindBy(xpath = "//*[@id=\"w0\"]/div[1]/div[2]/div/div/div/div[3]/div/div[3]")
+    @FindBy(xpath = "//*[@id=\"w0\"]/div[1]/div[2]/div/div/div/div[3]/div/div[3]/div")
     public
     WebElementFacade delete_button;
 

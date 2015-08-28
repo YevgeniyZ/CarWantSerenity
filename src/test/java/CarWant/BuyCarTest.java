@@ -50,7 +50,6 @@ public class BuyCarTest {
         user.clckMyDashboardButton();
         //Then
         user.shouldSeeTheSelectedCarInDashboard();
-        //user.shouldSeeTheSuccessPopUpSucess();
 
     }
 
