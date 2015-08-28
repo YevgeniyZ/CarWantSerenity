@@ -31,6 +31,6 @@ public class BuyCarFirst extends PageObject {
     }
 
     public void clickNextStepButton() {
-        nextStepButton.waitUntilClickable().click();
+        nextStepButton.click();
     }
 }

@@ -2,145 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8129a33c-abe0-40f4-b31e-9fe622720fab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CarWant/steps/AdminSteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFourth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSixth.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarThird.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/CongratulationPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/ForgotPasswordPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/CarWant/RegistrationTest.java" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\03d7a7c6d211cd136f293d3549706122_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\0e3aab5ee6685452bcbe62e0bdbf971b043e34931908fef7013e70ac8657790a.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\138623d8bbe6c169df3473e99a748595fbe15366dd2d195d0b130a83087e8d43.csv" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\2a42456910bcc5f28ba9f817ca2b7b3e_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\2ec7098b52c22dd8d9efea94a9630753_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\36d6586e7d470e193d006097134124b4_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\380e0ab171f99d09214e23bd4d51f16a_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\39992c713c2a545f0e782a55aa2e6a4b_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\44819f01fd83ac1d162f69a18eff1e71_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\48a8f95322500a9178920f5e79f103ca_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\54ad8a2b68cb4abdf7099396a0bf9c7a_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\5d70205912e933bc704bdfde4db14f40_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\5e946091bce2d1e36f5e04b3b11e7a3e_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\5ffa8dfe4b5dcc9ed569220c761d984f_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\6d394aecfa276ff1c9892ea463848383_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\799b14a54f3767ee11e8268788a6e4ae_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\7bdec1290f1746d78e877f2ed405db33_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\7e1e269860c008182b4146489ca2997df5b262890153000ff1c1a1925503c611.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8029878b94eda26936f0ee633229f047_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8e74b5ec59905f376a9ff882d0d4896c_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8ef99ce52aec10d856df2a4411d09a1f_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\90cf5e58d5f8de5891f5819c4670d2af_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\927756b0cedb22b080e57126a052b756_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\948b75c2d6aa46d9b703cd6f29f240b4_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\9813897b7837fd13b45dc23772f58632_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\9c9b9fcf7e1b73b23db55bf2bc4655f3_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\9d1947fa9eed342346b526a9a01f5ced_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\SERENITY-JUNIT-d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\SERENITY-JUNIT-f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\a001adaebf93543746efa1d7e8b85495_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\a2d9fe21dcc8ea601152d79b7ebb897d_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\a458309758eda9913742cd701055a10b_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\bc9bfa90fe1ce5a6f90fee4599320bfc_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\c66ba37ddf30395d16c1e30be2c9a753_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\d556b78dd9fa65ae40728f405029960a_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\db8b536f54e2a6b4088aa8216d772dc6a49146fe0d03fd9a2531b09136f70311.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\e251985e6e34072de497351e8d8ef320_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\ea2f8667c0aff559448b51ac8029e869_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\eb2503ea6ade8df2e19965fff577968f_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51_screenshots.html" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\f776f9a794ba245350b93e439511275c_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\f9fcf2f6b32055aca9cc2f4640a44b9e_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\fb32f4203acd160c256a1320204b5a9f_NONE.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="C:\CarWantSerenity\target\classes\CarWant\pages\HomePage.class" afterPath="C:\CarWantSerenity\target\classes\CarWant\pages\HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/CarWant/pages/LoginPage.class" afterPath="$PROJECT_DIR$/target/classes/CarWant/pages/LoginPage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/CarWant/steps/LoginSteps.class" afterPath="$PROJECT_DIR$/target/test-classes/CarWant/steps/LoginSteps.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/CarWant/LoginTest.class" afterPath="$PROJECT_DIR$/target/test-classes/CarWant/LoginTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/CarWant/SearchByKeywordStory.class" afterPath="$PROJECT_DIR$/target/test-classes/CarWant/SearchByKeywordStory.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/webtests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/webtests-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/191e559d0102c6675dda97530e26ed4a9e95145a04ae65246cd9ae47d82dc629.csv" afterPath="$PROJECT_DIR$/target/site/serenity/191e559d0102c6675dda97530e26ed4a9e95145a04ae65246cd9ae47d82dc629.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/191e559d0102c6675dda97530e26ed4a9e95145a04ae65246cd9ae47d82dc629.html" afterPath="$PROJECT_DIR$/target/site/serenity/191e559d0102c6675dda97530e26ed4a9e95145a04ae65246cd9ae47d82dc629.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/2c7c6b9a53e6dfbd128a3676b3c239bff76e24027d6b0877f99e18af0e69821a.html" afterPath="$PROJECT_DIR$/target/site/serenity/2c7c6b9a53e6dfbd128a3676b3c239bff76e24027d6b0877f99e18af0e69821a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.csv" afterPath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.html" afterPath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.html" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.json" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/5967d785fd17b16085daf8ec6e746954e5e9dcb4bd7070305bc0b2790e592e63.csv" afterPath="$PROJECT_DIR$/target/site/serenity/5967d785fd17b16085daf8ec6e746954e5e9dcb4bd7070305bc0b2790e592e63.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.csv" afterPath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.html" afterPath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.html" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.json" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.html" afterPath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9a86a1a27f9935f3a1ef1c43dbe574ca5c6075ac9cb9df27d6f0443cd216bdfe.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9a86a1a27f9935f3a1ef1c43dbe574ca5c6075ac9cb9df27d6f0443cd216bdfe.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.html" afterPath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/CarWant.LoginTest.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/CarWant.LoginTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/CarWant.SearchByKeywordStory.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/CarWant.SearchByKeywordStory.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CarWantSerenity.iml" afterPath="$PROJECT_DIR$/CarWantSerenity.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWantDB/DataBase.java" afterPath="$PROJECT_DIR$/src/main/java/CarWantDB/DataBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/steps/LoginSteps.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/steps/LoginSteps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/RegistrationPage.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/RegistrationPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/steps/RegistrationSteps.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/steps/RegistrationSteps.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.LoginTest.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.LoginTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.SearchByKeywordStory.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.SearchByKeywordStory.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/a01face91892e7bff8427793eeb2d8992d75bf7b5ca9795f4200f42a049dc7a9.html" afterPath="$PROJECT_DIR$/target/site/serenity/a01face91892e7bff8427793eeb2d8992d75bf7b5ca9795f4200f42a049dc7a9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.html" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.json" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.xml" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.html" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.json" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.xml" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.html" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.json" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa_screenshots.html" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa_screenshots.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.csv" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" afterPath="$PROJECT_DIR$/target/site/serenity/bde4fca42ca8baa0fe2eac76a241c84327dfe4ca903a1daa7cae83a1035d4745.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/browser-firefox.properties" afterPath="$PROJECT_DIR$/target/site/serenity/browser-firefox.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.csv" afterPath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.html" afterPath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" afterPath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.json" afterPath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.xml" afterPath="$PROJECT_DIR$/target/site/serenity/d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.html" afterPath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.json" afterPath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.xml" afterPath="$PROJECT_DIR$/target/site/serenity/f2e3d00dd1dbb51f6c9302c92333cab525f2065cb24ad0b5dce387a78db78e51.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/failsafe-summary.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/index.html" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CarWantSerenity.iws" />
@@ -165,15 +27,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BuyCarFirst.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="BuyCarFirst.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.765748">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#922#923#0" expanded="true" />
+                <element signature="e#901#902#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -233,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="108" column="46" selection-start-line="108" selection-start-column="46" selection-end-line="108" selection-end-column="46" />
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1015#1016#0" expanded="true" />
@@ -253,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -261,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuyCarSeventh.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BuyCarSeventh.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23031496">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -313,12 +175,12 @@
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSixth.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarThird.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFourth.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
       </list>
     </option>
   </component>
@@ -888,7 +750,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440582841815</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="New commit 3">
+      <created>1440769413575</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1440769413575</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -906,7 +774,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3671783" sideWeight="0.4977521" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.49726775" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19839142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19839142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1012,6 +880,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,6 +910,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,6 +925,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60535717">
           <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1100,6 +971,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28977272">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1264,18 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#922#923#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1318,10 +1178,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="108" column="46" selection-start-line="108" selection-start-column="46" selection-end-line="108" selection-end-column="46" />
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1015#1016#0" expanded="true" />
@@ -1336,24 +1218,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.765748">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23031496">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
           </folding>
         </state>
       </provider>
