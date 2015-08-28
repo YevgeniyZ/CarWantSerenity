@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="CarWant.LoginTest" skipped="0" tests="1" time="14.3" timestamp="2015-07-188 03:30:53"><testcase classname="CarWant.LoginTest" name="Test incorrect email"><error message="expected:&lt;...username or password[]&gt; but was:&lt;...username or password[.]&gt;" type="junit.framework.ComparisonFailure">expected:&lt;...username or password[]&gt; but was:&lt;...username or password[.]&gt;</error><system-err>expected:&lt;...username or password[]&gt; but was:&lt;...username or password[.]&gt;&#13;
-junit.framework.Assert.assertEquals(Assert.java:100)&#13;
-junit.framework.Assert.assertEquals(Assert.java:107)&#13;
-junit.framework.TestCase.assertEquals(TestCase.java:269)&#13;
-CarWant.steps.LoginSteps.shouldSeeTheWarningIncorrectEmailMessage(LoginSteps.java:54)&#13;
-CarWant.LoginTest.testIncorrectEmail(LoginTest.java:79)&#13;
-</system-err></testcase></testsuite>

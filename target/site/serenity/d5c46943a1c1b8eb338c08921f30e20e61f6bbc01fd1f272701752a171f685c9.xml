@@ -1,18 +1,18 @@
-<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="13313" timestamp="2015-07-21T18:25:33.208+03:00">
+<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="12476" timestamp="2015-07-22T17:27:22.551+03:00">
   <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
   <tags>
     <tag name="Login test" type="story"/>
   </tags>
-  <test-step result="SUCCESS" duration="10941">
+  <test-step result="SUCCESS" duration="10789">
     <description>On the login page</description>
   </test-step>
-  <test-step result="SUCCESS" duration="1417">
+  <test-step result="SUCCESS" duration="970">
     <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;yevgeniy111.semashko@gmail.com, Vishnya11&lt;/span&gt;</description>
   </test-step>
-  <test-step result="SUCCESS" duration="253">
+  <test-step result="SUCCESS" duration="251">
     <description>Sign in</description>
   </test-step>
-  <test-step result="SUCCESS" duration="697">
+  <test-step result="SUCCESS" duration="460">
     <description>Should see the warning incorrect email message: &lt;span class=&apos;step-parameter&apos;&gt;Incorrect username or password.&lt;/span&gt;</description>
   </test-step>
 </acceptance-test-run>

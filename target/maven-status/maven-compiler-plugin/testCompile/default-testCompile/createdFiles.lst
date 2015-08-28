@@ -1,4 +1,6 @@
 CarWant\LoginTest.class
+CarWant\steps\RegistrationSteps.class
 CarWant\SearchByKeywordStory.class
 CarWant\steps\LoginSteps.class
+CarWant\RegistrationTest.class
 CarWant\steps\EndUserSteps.class

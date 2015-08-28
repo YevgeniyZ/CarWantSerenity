@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="CarWant.LoginTest" skipped="0" tests="2" time="21.98" timestamp="2015-07-188 02:57:50"><testcase classname="CarWant.LoginTest" name="Test valid login"/><testcase classname="CarWant.LoginTest" name="Test invalid email"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="CarWant.LoginTest" skipped="0" tests="1" time="25.51" timestamp="2015-08-238 12:51:42"><testcase classname="CarWant.LoginTest" name="Test valid login"/></testsuite>

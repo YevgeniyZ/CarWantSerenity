@@ -22,6 +22,9 @@ public class HomePage extends PageObject {
     public
     WebElementFacade logout_link;
 
+    @FindBy(xpath = "//*[@id=\"w2\"]/li[3]/a")
+    public
+    WebElementFacade iWantToBuyACarLink;
 
     public void assertIsOpened() {
         Assert.assertEquals("Get Started", get_started_link.getText());
@@ -30,5 +33,9 @@ public class HomePage extends PageObject {
     public void assertLogoutIsDisplayed() {
         System.out.println(logout_link.getText());
         Assert.assertEquals("Logout",logout_link.getText());
+    }
+
+    public void clickIWantToBuyACar() {
+        iWantToBuyACarLink.click();
     }
 }

@@ -1,4 +1,4 @@
-<acceptance-test-run title="Searching by keyword banana should display the corresponding article" name="searching_by_keyword_banana_should_display_the_corresponding_article" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="PENDING" result="PENDING" duration="0" timestamp="2015-07-17T15:36:40.883+03:00">
+<acceptance-test-run title="Searching by keyword banana should display the corresponding article" name="searching_by_keyword_banana_should_display_the_corresponding_article" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="PENDING" result="PENDING" duration="3" timestamp="2015-07-22T17:27:54.936+03:00">
   <user-story id="CarWant.SearchByKeywordStory" name="Search by keyword story" path="CarWant"/>
   <tags>
     <tag name="Search by keyword story" type="story"/>

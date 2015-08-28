@@ -4,7 +4,6 @@ import CarWant.pages.HomePage;
 import CarWant.pages.LoginPage;
 import net.thucydides.core.annotations.Step;
 import net.thucydides.core.steps.ScenarioSteps;
-import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
 import static junit.framework.TestCase.assertEquals;
@@ -19,24 +18,24 @@ public class LoginSteps extends ScenarioSteps {
     WebDriver driver;
 
     @Step
-    public void shouldGoToTheHomePage(){
-        System.out.println(homePage.nav_bar.getText());
-        Assert.assertTrue(homePage.nav_bar.isDisplayed()); ;
+    public void shouldGoToTheHomePageAndSeeGetStartedLink(){
+        homePage.assertIsOpened();
     }
 
     @Step
     public void onTheLoginPage(){
         loginPage.open();
+        getDriver().navigate().refresh();
     }
 
     @Step
     public void enterCredentials(String email, String password){
         loginPage.loginToCarWant(email, password);
     }
-
+    
     @Step
     public void signIn(){
-         loginPage.clickSignIn();
+        loginPage.login();
     }
 
     @Step
@@ -54,4 +53,8 @@ public class LoginSteps extends ScenarioSteps {
         assertEquals(warningText, loginPage.incorrectLoginWarning.getText());
     }
 
+    @Step
+    public void shouldSeeTheLogoutLink() {
+        homePage.assertLogoutIsDisplayed();
+    }
 }

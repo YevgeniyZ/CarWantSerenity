@@ -1,4 +1,7 @@
 CarWant\pages\LoginPage.class
 CarWant\pages\DictionaryPage$1.class
-CarWant\pages\DictionaryPage.class
 CarWant\pages\HomePage.class
+CarWantDB\DataBase.class
+CarWant\pages\RegistrationPage.class
+CarWant\pages\CongratulationPage.class
+CarWant\pages\DictionaryPage.class

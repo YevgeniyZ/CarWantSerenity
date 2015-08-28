@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: CarWant.SearchByKeywordStory
 -------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.423 sec - in CarWant.SearchByKeywordStory
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.339 sec - in CarWant.SearchByKeywordStory

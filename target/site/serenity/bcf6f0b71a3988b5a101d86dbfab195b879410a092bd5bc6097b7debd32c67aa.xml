@@ -1,18 +1,18 @@
-<acceptance-test-run title="Test valid login" name="testValidLogin" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="13861" timestamp="2015-07-21T18:25:06.311+03:00">
+<acceptance-test-run title="Test valid login" name="testValidLogin" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="25507" timestamp="2015-08-26T12:51:42.905+03:00">
   <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
   <tags>
     <tag name="Login test" type="story"/>
   </tags>
-  <test-step result="SUCCESS" duration="12438">
+  <test-step result="SUCCESS" duration="14836">
     <description>On the login page</description>
   </test-step>
-  <test-step result="SUCCESS" duration="984">
+  <test-step result="SUCCESS" duration="941">
     <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;yevgeniy.semashko@gmail.com, Vishnya11&lt;/span&gt;</description>
   </test-step>
-  <test-step result="SUCCESS" duration="248">
+  <test-step result="SUCCESS" duration="254">
     <description>Sign in</description>
   </test-step>
-  <test-step result="SUCCESS" duration="166">
-    <description>Should go to the home page</description>
+  <test-step result="SUCCESS" duration="9121">
+    <description>Should see the logout link</description>
   </test-step>
 </acceptance-test-run>

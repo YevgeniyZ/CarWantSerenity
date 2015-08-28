@@ -36,15 +36,15 @@
     <script class="code" type="text/javascript">$(document).ready(function () {
         var test_results_plot = $.jqplot('test_results_pie_chart', [
             [
-                ['Passing', 0.5],
+                ['Passing', 0.444444],
                 
-                ['Pending', 0.5],
+                ['Pending', 0.444444],
                 
                 ['Ignored', 0],
                 
                 ['Failing', 0],
                 
-                ['Errors',  0]
+                ['Errors',  0.111111]
             ]
         ], {
 
@@ -73,25 +73,25 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '4 / 8 tests passed' },
-                {label: '4 / 8 tests pending'},
-                {label: '0 / 8 tests not executed'},
-                {label: '0 / 8 tests failed'},
-                {label: '0 / 8 errors'}
+                {label: '4 / 9 tests passed' },
+                {label: '4 / 9 tests pending'},
+                {label: '0 / 9 tests not executed'},
+                {label: '0 / 9 tests failed'},
+                {label: '1 / 9 errors'}
             ]
         });
 
         var weighted_test_results_plot = $.jqplot('weighted_test_results_pie_chart', [
             [
-                ['Passing', 0.5],
+                ['Passing', 0.372093],
                 
-                ['Pending', 0.125],
+                ['Pending', 0.116279],
                 
                 ['Ignored', 0],
                 
                 ['Failing', 0],
                 
-                ['Errors', 0]
+                ['Errors', 0.186047]
             ]
         ], {
 
@@ -121,11 +121,11 @@
                 marginTop: '15px'
             },
             series: [
-                {label: '4 / 8 tests passed (0.5% of all test steps)' },
-                {label: '4 / 8 tests pending'},
-                {label: '0 / 8 tests not executed'},
-                {label: '0 / 8 tests failed (0% of all test steps)'},
-                {label: '0 / 8 errors (0% of all test steps)'}
+                {label: '4 / 9 tests passed (0.372093% of all test steps)' },
+                {label: '4 / 9 tests pending'},
+                {label: '0 / 9 tests not executed'},
+                {label: '0 / 9 tests failed (0% of all test steps)'},
+                {label: '1 / 9 errors (0.186047% of all test steps)'}
             ]
         });
 
@@ -186,7 +186,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 17-07-2015 15:36</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 22-07-2015 17:27</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>

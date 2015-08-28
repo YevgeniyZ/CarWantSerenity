@@ -5,7 +5,6 @@ import CarWant.pages.LoginPage;
 import CarWant.steps.LoginSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
-import net.thucydides.core.annotations.ManagedPages;
 import net.thucydides.core.annotations.Pending;
 import net.thucydides.core.annotations.Steps;
 import net.thucydides.core.pages.Pages;
@@ -25,7 +24,7 @@ public class LoginTest {
     LoginPage loginPage;
     HomePage homePage;
 
-    @ManagedPages(defaultUrl = "http://carwant.apache.devplatform1.com/")
+    //@ManagedPages(defaultUrl = "http://carwant.apache.devplatform1.com/")
     public Pages pages;
 
 
@@ -41,7 +40,9 @@ public class LoginTest {
         user.enterCredentials("yevgeniy.semashko@gmail.com", "Vishnya11");
         user.signIn();
         //Then
-        user.shouldGoToTheHomePage();
+        user.shouldGoToTheHomePageAndSeeGetStartedLink();
+        user.shouldSeeTheLogoutLink();
+
     }
 
     @Test
