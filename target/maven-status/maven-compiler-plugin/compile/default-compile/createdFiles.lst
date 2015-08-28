@@ -1,7 +1,15 @@
+CarWant\pages\BuyCarSixth.class
+CarWant\pages\HomePage.class
+CarWant\pages\BuyCarFirst.class
+CarWant\pages\BuyCarFourth.class
+CarWant\pages\BuyCarThird.class
+CarWant\pages\DictionaryPage.class
+CarWant\pages\ForgotPasswordPage.class
 CarWant\pages\LoginPage.class
 CarWant\pages\DictionaryPage$1.class
-CarWant\pages\HomePage.class
+CarWant\pages\BuyCarFifth.class
+CarWant\pages\BuyCarSeventh.class
 CarWantDB\DataBase.class
 CarWant\pages\RegistrationPage.class
+CarWant\pages\BuyCarSecond.class
 CarWant\pages\CongratulationPage.class
-CarWant\pages\DictionaryPage.class
