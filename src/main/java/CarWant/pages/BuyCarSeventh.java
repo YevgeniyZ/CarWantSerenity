@@ -24,6 +24,10 @@ public class BuyCarSeventh extends PageObject {
     public
     WebElementFacade title_sucess;
 
+    @FindBy(xpath = "//*[@id=\"submitModal\"]/div[2]/div/div/div/button")
+    public
+    WebElementFacade my_dashboard_button;
+
     public void clickSubmitForFreeButton() {
         submitForFreebutton.waitUntilClickable().click();
     }
@@ -34,5 +38,9 @@ public class BuyCarSeventh extends PageObject {
         successPopUp.waitUntilPresent();
         System.out.println(title_sucess.getText());
         Assert.assertTrue(title_sucess.containsText("Success"));
+    }
+
+    public void clckMyDashboardButton() {
+        my_dashboard_button.click();
     }
 }

@@ -58,7 +58,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 28-08-2015 16:51</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 28-08-2015 17:31</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>
@@ -92,10 +92,10 @@
                     <tr>
                         <td colspan="2" class="test-title-bar">
                             <span class="outcome-icon"><img class="story-outcome-icon"
-                                                            src="images/success.png"/></span>
+                                                            src="images/cross.png"/></span>
                             <span class="test-case-title">
 
-                                <span class="success-color">Test Incorrect Email
+                                <span class="error-color">Test Incorrect Email
                                     <span class="related-issue-title"></span>
                             </span>
                         </span>
@@ -124,9 +124,10 @@
                         &nbsp;
                     </th>
 
-                    <th width="%" class="step-description-wide-column greentext">
+                    <th width="%" class="step-description-column greentext">
                         Steps
                     </th>
+                    <th width="120" class="greentext">Screenshot</th>
                     <th width="100" class="greentext">Outcome</th>
                     <th width="75" class="greentext">Duration</th>
                 </tr>
@@ -146,8 +147,10 @@
 
                         </div>
                     </td>
+                        <td width="100" class="SUCCESS-text">
+                        </td>
                     <td width="100"><span class="top-level-step">SUCCESS</span></td>
-                    <td width="100"><span class="top-level-step">12.1s</span></td>
+                    <td width="100"><span class="top-level-step">10.78s</span></td>
                 </tr>
                 <tr class="test-SUCCESS">
                     <td width="60" class="step-icon">
@@ -162,8 +165,10 @@
 
                         </div>
                     </td>
+                        <td width="100" class="SUCCESS-text">
+                        </td>
                     <td width="100"><span class="top-level-step">SUCCESS</span></td>
-                    <td width="100"><span class="top-level-step">1.27s</span></td>
+                    <td width="100"><span class="top-level-step">1.05s</span></td>
                 </tr>
                 <tr class="test-SUCCESS">
                     <td width="60" class="step-icon">
@@ -178,29 +183,86 @@
 
                         </div>
                     </td>
+                        <td width="100" class="SUCCESS-text">
+                        </td>
                     <td width="100"><span class="top-level-step">SUCCESS</span></td>
-                    <td width="100"><span class="top-level-step">0.25s</span></td>
+                    <td width="100"><span class="top-level-step">0.28s</span></td>
                 </tr>
-                <tr class="test-SUCCESS">
+                <tr class="test-FAILURE">
                     <td width="60" class="step-icon">
                         <a name="3"/>
                             <img style="margin-left: 20px; margin-right: 5px;"
-                                 src="images/success.png" class="top-level-icon"/>
+                                 src="images/fail.png" class="top-level-icon"/>
                     </td>
                     <td>
                         <div class="step-description">
-                            <span class="top-level-step">Should see the warning incorrect email message: <span class='step-parameter'>Incorrect username or password.</span></span>
+                            <span class="top-level-step">Should see the warning incorrect email message: <span class='step-parameter'>Incorrect username or something big.</span></span>
 
 
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
-                    <td width="100"><span class="top-level-step">0.78s</span></td>
+                        <td width="100" class="FAILURE-text">
+                                <a href="d5c46943a1c1b8eb338c08921f30e20e61f6bbc01fd1f272701752a171f685c9_screenshots.html#screenshots?screenshot=0">
+                                    <!-- Added invalid href-attribute to img for imgpreviewer -->
+                                    <img src="db84ed2de0323bc94f33e6f375d9dfa6_NONE.png"
+                                         href="db84ed2de0323bc94f33e6f375d9dfa6_NONE.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">FAILURE</span></td>
+                    <td width="100"><span class="top-level-step">0.92s</span></td>
                 </tr>
-                <tr class="test-SUCCESS">
+                    <tr class="test-FAILURE">
+                        <td width="40">&nbsp</td>
+                        <td width="%" colspan="4" class="error-message-cell">
+                            <span class="error-message ellipsis"
+                                  title='expected:&lt;...correct username or [something big].&gt; but was:&lt;...correct username or [password].&gt;'><pre>expected:&lt;...correct username or [something big].&gt; but was:&lt;...correct username or [password].&gt;</pre></span>
+                <div><!-- Stack trace -->
+                    <button type="button" class="btn btn-danger btn-sm" data-toggle="modal"
+                            data-target="#stacktraceModal">
+                        View stack trace
+                    </button>
+                </div>
+                <!-- Modal -->
+                <div class="modal fade" id="stacktraceModal" tabindex="-1" role="dialog"
+                     aria-labelledby="stacktraceModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-lg">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal"
+                                        aria-label="Close"><span aria-hidden="true">&times;</span>
+                                </button>
+                                <h4 class="modal-title" id="stacktraceModalLabel">
+                                junit.framework.ComparisonFailure :  expected:<...correct username or [something big].> but was:<...correct username or [password].> 
+                                </h4>
+                            </div>
+                            <div class="modal-body">
+                                junit.framework.Assert.assertEquals(Assert.java
+                                    :100)
+                                junit.framework.Assert.assertEquals(Assert.java
+                                    :107)
+                                junit.framework.TestCase.assertEquals(TestCase.java
+                                    :269)
+                                CarWant.steps.LoginSteps.shouldSeeTheWarningIncorrectEmailMessage(LoginSteps.java
+                                    :53)
+                                CarWant.LoginTest.testIncorrectEmail(LoginTest.java
+                                    :82)
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">
+                                    Close
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        </td>
+                    </tr>
+                <tr class="test-ERROR">
                     <td colspan="2"></td>
-                    <td width="100"><span class="top-level-step"><em>SUCCESS</em></span></td>
-                    <td width="100"><span class="top-level-step"><em>14.4s</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>ERROR</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>13.04s</em></span></td>
                 </tr>
 
             </table>

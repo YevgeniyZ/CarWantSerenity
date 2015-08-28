@@ -1,7 +1,5 @@
 CarWant\steps\RegistrationSteps.class
-CarWant\SearchByKeywordStory.class
 CarWant\steps\LoginSteps.class
-CarWant\steps\EndUserSteps.class
 CarWant\LoginTest.class
 CarWant\BuyCarTest.class
 CarWant\steps\AdminSteps.class

@@ -1,18 +1,24 @@
-<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="14400" timestamp="2015-08-28T16:51:44.845+03:00">
+<acceptance-test-run title="Test incorrect email" name="testIncorrectEmail" steps="4" successful="3" failures="1" skipped="0" ignored="0" pending="0" annotated-result="ERROR" result="ERROR" duration="13036" timestamp="2015-08-28T17:31:10.192+03:00">
   <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
   <tags>
     <tag name="Login test" type="story"/>
   </tags>
-  <test-step result="SUCCESS" duration="12102">
+  <test-step result="SUCCESS" duration="10782">
     <description>On the login page</description>
   </test-step>
-  <test-step result="SUCCESS" duration="1265">
+  <test-step result="SUCCESS" duration="1048">
     <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;yevgeniy111.semashko@gmail.com, Vishnya11&lt;/span&gt;</description>
   </test-step>
-  <test-step result="SUCCESS" duration="250">
+  <test-step result="SUCCESS" duration="284">
     <description>Sign in</description>
   </test-step>
-  <test-step result="SUCCESS" duration="779">
-    <description>Should see the warning incorrect email message: &lt;span class=&apos;step-parameter&apos;&gt;Incorrect username or password.&lt;/span&gt;</description>
+  <test-step result="FAILURE" duration="916">
+    <screenshots>
+      <screenshot image="db84ed2de0323bc94f33e6f375d9dfa6_NONE.png"/>
+    </screenshots>
+    <description>Should see the warning incorrect email message: &lt;span class=&apos;step-parameter&apos;&gt;Incorrect username or something big.&lt;/span&gt;</description>
+    <error>expected:&lt;...correct username or [something big].&gt; but was:&lt;...correct username or [password].&gt;</error>
+    <exception>junit.framework.ComparisonFailure:expected:&lt;...correct username or [something big].&gt; but was:&lt;...correct username or [password].&gt;&#xd;
+[junit.framework.Assert.assertEquals(Assert.java:100), junit.framework.Assert.assertEquals(Assert.java:107), junit.framework.TestCase.assertEquals(TestCase.java:269), CarWant.steps.LoginSteps.shouldSeeTheWarningIncorrectEmailMessage(LoginSteps.java:53), CarWant.LoginTest.testIncorrectEmail(LoginTest.java:82)]</exception>
   </test-step>
 </acceptance-test-run>

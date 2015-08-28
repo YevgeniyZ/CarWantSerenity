@@ -2,12 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8129a33c-abe0-40f4-b31e-9fe622720fab" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\CarWantSerenity\src\main\java\CarWant\pages\DictionaryPage.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\src\test\java\CarWant\SearchByKeywordStory.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\src\test\java\CarWant\steps\EndUserSteps.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\2cb5a6ae5ddefe4be85ad3fcb5003d45_NONE.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\SERENITY-JUNIT-bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa_screenshots.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/DashboardBuyingPage.java" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\classes\CarWant\pages\DictionaryPage$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\classes\CarWant\pages\DictionaryPage.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\failsafe-reports\CarWant.SearchByKeywordStory.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\failsafe-reports\TEST-CarWant.SearchByKeywordStory.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\5967d785fd17b16085daf8ec6e746954e5e9dcb4bd7070305bc0b2790e592e63.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\SERENITY-JUNIT-8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\a01face91892e7bff8427793eeb2d8992d75bf7b5ca9795f4200f42a049dc7a9.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.csv" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\site\serenity\c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\test-classes\CarWant\SearchByKeywordStory.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\CarWantSerenity\target\test-classes\CarWant\steps\EndUserSteps.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/CarWant/LoginTest.class" afterPath="$PROJECT_DIR$/target/test-classes/CarWant/LoginTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/webtests-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/webtests-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" />
@@ -16,34 +36,22 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/2c7c6b9a53e6dfbd128a3676b3c239bff76e24027d6b0877f99e18af0e69821a.html" afterPath="$PROJECT_DIR$/target/site/serenity/2c7c6b9a53e6dfbd128a3676b3c239bff76e24027d6b0877f99e18af0e69821a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" afterPath="$PROJECT_DIR$/target/site/serenity/3d2871ef9911e9892794a9042e262e6b82ae98dff337dd2d2e4d80be2072e38e.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.csv" afterPath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.html" afterPath="$PROJECT_DIR$/target/site/serenity/3edd3e5f048f3242e71d953fbe6cf8521b6c2df9860058baaf10ada0a2b33a3a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.html" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.json" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" afterPath="$PROJECT_DIR$/target/site/serenity/49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/5967d785fd17b16085daf8ec6e746954e5e9dcb4bd7070305bc0b2790e592e63.csv" afterPath="$PROJECT_DIR$/target/site/serenity/5967d785fd17b16085daf8ec6e746954e5e9dcb4bd7070305bc0b2790e592e63.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.csv" afterPath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.html" afterPath="$PROJECT_DIR$/target/site/serenity/7d23ae0879f62e0e7c8d3ce8ba5888e2e1270cc8f8a5e5a49d7802677c5dfa73.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.html" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.json" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="$PROJECT_DIR$/target/site/serenity/8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.html" afterPath="$PROJECT_DIR$/target/site/serenity/9062148b78b79540f79687705843daa210a07f98cf10e206336263fb7be1ec94.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9a86a1a27f9935f3a1ef1c43dbe574ca5c6075ac9cb9df27d6f0443cd216bdfe.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9a86a1a27f9935f3a1ef1c43dbe574ca5c6075ac9cb9df27d6f0443cd216bdfe.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.csv" afterPath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.html" afterPath="$PROJECT_DIR$/target/site/serenity/9b98ad98bfdfd0ee3ae32978f83e7d49114736785ffe32df08410720209085b2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" afterPath="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/CarWant.LoginTest.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/CarWant.LoginTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/CarWant.SearchByKeywordStory.txt" afterPath="$PROJECT_DIR$/target/failsafe-reports/CarWant.SearchByKeywordStory.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" afterPath="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-49d7dbce207e39a7a7d78f025ee8919f7a1f723dfb06d9d0daddfa558334338a.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-8757a4bf6547b952dc53b35eeb72d0f17ec1cf57911485ed4c10712024a84fcf.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.LoginTest.xml" afterPath="$PROJECT_DIR$/target/failsafe-reports/TEST-CarWant.LoginTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/a01face91892e7bff8427793eeb2d8992d75bf7b5ca9795f4200f42a049dc7a9.html" afterPath="$PROJECT_DIR$/target/site/serenity/a01face91892e7bff8427793eeb2d8992d75bf7b5ca9795f4200f42a049dc7a9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.html" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.json" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.xml" afterPath="$PROJECT_DIR$/target/site/serenity/b38c1d0203cb5ac0cdc09b4b0c99f85f15b9e3e4a051282f290069d005532255.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.html" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.json" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.xml" afterPath="$PROJECT_DIR$/target/site/serenity/bc80f161e8f4b92939107a7b122ce0e1621edf6df5938bc46e6dac7148ef9a02.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.html" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.json" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" afterPath="$PROJECT_DIR$/target/site/serenity/bcf6f0b71a3988b5a101d86dbfab195b879410a092bd5bc6097b7debd32c67aa.xml" />
@@ -53,8 +61,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" afterPath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.csv" afterPath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.html" afterPath="$PROJECT_DIR$/target/site/serenity/c8abb1abf3c6d3aeaae85e6123ca7eed3fa333a79e72cfa60f9f8cef6714f006.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
@@ -93,36 +99,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BuyCarFirst.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
+      <file leaf-file-name="BuyCarTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
+                <element signature="e#1474#1475#0" expanded="true" />
+                <element signature="e#1508#1509#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java">
+      <file leaf-file-name="BuyCarSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-              <folding />
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#964#965#0" expanded="true" />
+                <element signature="e#1005#1006#0" expanded="true" />
+                <element signature="e#1056#1057#0" expanded="true" />
+                <element signature="e#1102#1103#0" expanded="true" />
+                <element signature="e#2387#2388#0" expanded="true" />
+                <element signature="e#2437#2438#0" expanded="true" />
+                <element signature="e#2493#2494#0" expanded="true" />
+                <element signature="e#2561#2562#0" expanded="true" />
+                <element signature="e#2594#2595#0" expanded="true" />
+                <element signature="e#2634#2635#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -131,79 +141,21 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BuyCarThird.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarThird.java">
+      <file leaf-file-name="BuyCarFirst.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-              <folding>
-                <element signature="e#1092#1093#0" expanded="true" />
-                <element signature="e#1151#1152#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyCarFourth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFourth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.6504673">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#503#504#0" expanded="true" />
-                <element signature="e#560#561#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyCarFifth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="36" />
-              <folding>
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyCarSteps.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25409836">
-              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1015#1016#0" expanded="true" />
-                <element signature="e#1061#1062#0" expanded="true" />
-                <element signature="e#1640#1641#0" expanded="true" />
-                <element signature="e#1678#1679#0" expanded="true" />
-                <element signature="e#2130#2131#0" expanded="true" />
-                <element signature="e#2183#2184#0" expanded="true" />
-                <element signature="e#2244#2245#0" expanded="true" />
-                <element signature="e#2303#2304#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BuyCarTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#863#864#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,11 +165,25 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#926#927#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1307#1308#0" expanded="true" />
+                <element signature="e#1350#1351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DashboardBuyingPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/DashboardBuyingPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -255,7 +221,6 @@
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/CongratulationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarWant/steps/LoginSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/ForgotPasswordPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSixth.java" />
@@ -263,10 +228,12 @@
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFourth.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java" />
         <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CarWant/pages/DashboardBuyingPage.java" />
       </list>
     </option>
   </component>
@@ -281,8 +248,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="190" />
-    <option name="y" value="40" />
+    <option name="x" value="178" />
+    <option name="y" value="25" />
     <option name="width" value="1552" />
     <option name="height" value="978" />
   </component>
@@ -848,11 +815,17 @@
       <option name="project" value="LOCAL" />
       <updated>1440770128288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="New commit 3">
+      <created>1440771298810</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1440771298810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="40" width="1552" height="978" extended-state="0" />
+    <frame x="178" y="25" width="1552" height="978" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -863,10 +836,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10271547" sideWeight="0.4977521" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33530107" sideWeight="0.4977521" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.49726775" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19839142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19839142" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -968,14 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serenity.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.030357143">
@@ -1017,14 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.60535717">
           <caret line="260" column="27" selection-start-line="260" selection-start-column="27" selection-end-line="260" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test Results - RegistrationTest_testValidRegistration.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1177,28 +1134,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java">
+    <entry file="file://$PROJECT_DIR$/Test Results - RegistrationTest_testValidRegistration.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.48785046">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5551402">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
           <folding>
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1151#1152#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFourth.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.5719626">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1208,13 +1173,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarThird.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFifth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6635514">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9214953">
+          <caret line="81" column="94" selection-start-line="81" selection-start-column="94" selection-end-line="81" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1151#1152#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1474#1475#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#964#965#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1102#1103#0" expanded="true" />
+            <element signature="e#2387#2388#0" expanded="true" />
+            <element signature="e#2437#2438#0" expanded="true" />
+            <element signature="e#2493#2494#0" expanded="true" />
+            <element signature="e#2561#2562#0" expanded="true" />
+            <element signature="e#2594#2595#0" expanded="true" />
+            <element signature="e#2634#2635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSecond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/DashboardBuyingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="59" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1222,67 +1247,25 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarSeventh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#798#799#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/BuyCarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#926#927#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1307#1308#0" expanded="true" />
+            <element signature="e#1350#1351#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/BuyCarFirst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.6504673">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CarWant/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CarWant/steps/BuyCarSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25409836">
-          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1015#1016#0" expanded="true" />
-            <element signature="e#1061#1062#0" expanded="true" />
-            <element signature="e#1640#1641#0" expanded="true" />
-            <element signature="e#1678#1679#0" expanded="true" />
-            <element signature="e#2130#2131#0" expanded="true" />
-            <element signature="e#2183#2184#0" expanded="true" />
-            <element signature="e#2244#2245#0" expanded="true" />
-            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -3,10 +3,8 @@ CarWant\pages\HomePage.class
 CarWant\pages\BuyCarFirst.class
 CarWant\pages\BuyCarFourth.class
 CarWant\pages\BuyCarThird.class
-CarWant\pages\DictionaryPage.class
 CarWant\pages\ForgotPasswordPage.class
 CarWant\pages\LoginPage.class
-CarWant\pages\DictionaryPage$1.class
 CarWant\pages\BuyCarFifth.class
 CarWant\pages\BuyCarSeventh.class
 CarWantDB\DataBase.class

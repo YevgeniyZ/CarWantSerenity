@@ -18,6 +18,7 @@ public class BuyCarSteps extends ScenarioSteps{
     BuyCarFifth buyFifth;
     BuyCarSixth buySixth;
     BuyCarSeventh buySeventh;
+    DashboardBuyingPage dashboardBuying;
 
    @Step
    public void onTheLoginPage(){
@@ -108,5 +109,17 @@ public class BuyCarSteps extends ScenarioSteps{
     @Step
     public void shouldSeeTheSuccessPopUpSucess(){
         buySeventh.shouldSeeTheSuccessPopUpSucess();
+    }
+
+    public void clckMyDashboardButton() {
+        buySeventh.clckMyDashboardButton();
+    }
+
+    public void shouldSeeTheSelectedCarInDashboard() {
+        dashboardBuying.shouldSeeTheSelectedCarInDashboard();
+    }
+
+    public void clickDelete() {
+        dashboardBuying.delete();
     }
 }

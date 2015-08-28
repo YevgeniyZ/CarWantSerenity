@@ -78,7 +78,8 @@ public class LoginTest {
         //And
         user.signIn();
         //Then
-        user.shouldSeeTheWarningIncorrectEmailMessage("Incorrect username or password.");
+        //user.shouldSeeTheWarningIncorrectEmailMessage("Incorrect username or password.");
+        user.shouldSeeTheWarningIncorrectEmailMessage("Incorrect username or something big.");
     }
 
     @Test

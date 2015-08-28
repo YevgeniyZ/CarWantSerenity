@@ -1,18 +1,18 @@
-<acceptance-test-run title="Test blank email" name="testBlankEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="29086" timestamp="2015-08-28T16:50:38.392+03:00">
+<acceptance-test-run title="Test blank email" name="testBlankEmail" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="22828" timestamp="2015-08-28T17:30:01.122+03:00">
   <user-story id="CarWant.LoginTest" name="Login test" path="CarWant"/>
   <tags>
     <tag name="Login test" type="story"/>
   </tags>
-  <test-step result="SUCCESS" duration="27590">
+  <test-step result="SUCCESS" duration="21218">
     <description>On the login page</description>
   </test-step>
-  <test-step result="SUCCESS" duration="350">
+  <test-step result="SUCCESS" duration="407">
     <description>Enter credentials: &lt;span class=&apos;step-parameter&apos;&gt;, Vishnya11&lt;/span&gt;</description>
   </test-step>
-  <test-step result="SUCCESS" duration="236">
+  <test-step result="SUCCESS" duration="244">
     <description>Sign in</description>
   </test-step>
-  <test-step result="SUCCESS" duration="904">
+  <test-step result="SUCCESS" duration="952">
     <description>Should see the warning blank email message: &lt;span class=&apos;step-parameter&apos;&gt;Email cannot be blank.&lt;/span&gt;</description>
   </test-step>
 </acceptance-test-run>

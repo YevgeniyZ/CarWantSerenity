@@ -7,6 +7,7 @@ import CarWant.steps.LoginSteps;
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
+import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
@@ -27,6 +28,7 @@ public class BuyCarTest {
     public LoginSteps unregistered_user;
 
 
+
     @Test
     public void BuyCarFlowPositive() throws InterruptedException {
         //Given
@@ -45,8 +47,15 @@ public class BuyCarTest {
         user.clickNextStepButton5();
         user.clickNextStepButton6();
         user.clickSubmitForFreeButton();
+        user.clckMyDashboardButton();
         //Then
-        user.shouldSeeTheSuccessPopUpSucess();
+        user.shouldSeeTheSelectedCarInDashboard();
+        //user.shouldSeeTheSuccessPopUpSucess();
 
+    }
+
+    @After
+    public void deleteCreatedBuyCar(){
+        user.clickDelete();
     }
 }
