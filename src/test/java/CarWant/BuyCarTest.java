@@ -49,6 +49,7 @@ public class BuyCarTest {
         user.clickSubmitForFreeButton();
         user.clckMyDashboardButton();
         //Then
+        //Then
         user.shouldSeeTheSelectedCarInDashboard();
 
     }
